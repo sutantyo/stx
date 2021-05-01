@@ -109,3 +109,4 @@ And here is Mana Tithe,
 ![image0 (3)](https://user-images.githubusercontent.com/5953262/116774603-06794700-aaa1-11eb-8950-d5875279be77.jpeg)
 
 If you look closely with a loupe, the rosette pattern on the etched-foils is also different to what we normally see.
+You can already see signs of this in the above pictures. 
