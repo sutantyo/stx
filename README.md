@@ -90,4 +90,22 @@ https://user-images.githubusercontent.com/5953262/116773793-2f96d900-aa9b-11eb-9
 
 I hope this has been helpful!
 
+#### Bonus Content:
 
+The etched-foil and non-foil versions of the Japanese MA cards are nearly identical apart from the obvious foiling 
+on the textbox. However, if we compare them side by side, it becomes obvious that the etched-foils has a higher contrast
+than the non-foils. In some art, this is more obvious than others. Here is a picture of Abundant Harvest etched and non-foil
+side by side (the etched-foil is the left card):
+
+![image2](https://user-images.githubusercontent.com/5953262/116774525-720ee480-aaa0-11eb-9883-e004f2d8041b.jpeg)
+
+The etched-foils also have a more rough texture if we look at it closely. Here is Opt, left is non-foil, right is etched. 
+You can the difference in both colour and texture. 
+
+![image1 (1)](https://user-images.githubusercontent.com/5953262/116774548-a5ea0a00-aaa0-11eb-9251-f2b31394b524.jpeg)
+
+And here is Mana Tithe, 
+
+![image0 (3)](https://user-images.githubusercontent.com/5953262/116774603-06794700-aaa1-11eb-8950-d5875279be77.jpeg)
+
+If you look closely with a loupe, the rosette pattern on the etched-foils is also different to what we normally see.
