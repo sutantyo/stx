@@ -5,9 +5,9 @@ Mystical Archive foil from a Collector Booster box and one from a Japanese Set B
 The difference is very easy to spot once you have seen them in real life, especially
 if you have one of each (more on that later).
 
-The motivation of course is that there are likely to be much less Japanese Set Booster boxes,
+The motivation of course is that there is likely to be much less Japanese Set Booster boxes,
 plus since the pull rate for foils is much less compared to a CB box (sometimes there are none in a box),
-so we expect the set foils to carry a premium. 
+we expect the set foils to carry a premium. 
 Hareruya have priced this accordingly:
 
 <p align="center">
@@ -29,7 +29,7 @@ See the following video as well (again, the set foil is God's Willing).
 
 https://user-images.githubusercontent.com/5953262/116773144-ff4d3b80-aa96-11eb-92cb-34393f6b00ee.mov
 
-It is most obvious on the textbox.
+It is most obvious on the textbox (the middle Lightning Bolt is the set foil):
 
 https://user-images.githubusercontent.com/5953262/116773263-d24d5880-aa97-11eb-8751-788736517a92.mov
 
@@ -48,20 +48,19 @@ Here is the rainbow effect in action:
 
 https://user-images.githubusercontent.com/5953262/116773230-94503480-aa97-11eb-806c-42f11d1d2b74.mov
 
-Of course this is harder to see in some cards, but generally it's very hard to see the uncommon (silver)
+Of course there is variance depending on the artwork, but generally it's difficult to see the uncommon (silver)
 and gold (rare) rarity symbols on the CB foils, and the mythic (red) rarity symbol will hardly change.
-You can see in the following video. 
+You can see that in the following video, where Lightning Bolt (leftmost card) is again the set foil:
 
 https://user-images.githubusercontent.com/5953262/116773509-f0678880-aa98-11eb-80e8-61f2ed0ae678.mov
 
 #### Texture
 
 The next one is harder to spot, and it is not something I use to identify set or CB foils (the above is
-more than enough), but more for a discussion. In my opinion, the foiling effect on the set foil is
-much more smoother, and this feels like a new foil treatment. 
+more than enough for that), but more for a discussion. In my opinion, the foiling effect on the set foil is
+much more smoother, and this to me feels like a new foil treatment. 
 
 Here is a closeup of a CB foil:
-
 
 ![image0 (2)](https://user-images.githubusercontent.com/5953262/116773638-df6b4700-aa99-11eb-85e7-24f72b060a9f.jpeg)
 
@@ -69,7 +68,8 @@ and here is a closeup of the set foil:
 
 ![image1](https://user-images.githubusercontent.com/5953262/116773641-e2fece00-aa99-11eb-8f91-aa19b0b86946.jpeg)
 
-You can see a bit more texture in the CB foil, which is how I expect foils to look. 
+You can see a bit more texture in the CB foil, which is how I expect foils to look. The foiling effect on the set foil
+is more subtle, but it is also doing a much better job at preserving the original colours.
 
 #### Does it matter?
 
