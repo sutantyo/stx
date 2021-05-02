@@ -33,6 +33,16 @@ It is most obvious on the textbox (the middle Lightning Bolt is the set foil):
 
 https://user-images.githubusercontent.com/5953262/116773263-d24d5880-aa97-11eb-8751-788736517a92.mov
 
+#### Rounded Corner
+
+This is actually the easiest method, but it only works if you have the physical card in front of you.
+I don't think you will be able to tell this from a picture, 
+unless you specifically ask for a closeup picture of the corner.
+The set foil cards have rounded corner, as in, much more rounded compared to the CB foils, 
+as you can see from the picture below (the card on the right is the set foil):
+
+![image0 (4)](https://user-images.githubusercontent.com/5953262/116819182-3e23e400-abb2-11eb-9acc-a2ba12a47d74.jpeg)
+
 #### Rarity symbol
 
 On the set foil, the rarity symbol has the rainbow effect, while the rest of the card is more subtle, so
@@ -54,15 +64,7 @@ You can see that in the following video, where Lightning Bolt (leftmost card) is
 
 https://user-images.githubusercontent.com/5953262/116773509-f0678880-aa98-11eb-80e8-61f2ed0ae678.mov
 
-#### Rounded Corner
 
-This is actually the easiest method, but it only works if you have the physical card in front of you.
-I don't think you will be able to tell this from a picture, 
-unless you specifically ask for a closeup picture of the corner.
-The set foil cards have rounded corner, as in, much more rounded compared to the CB foils, 
-as you can see from the picture below (the card on the right is the set foil):
-
-![image0 (4)](https://user-images.githubusercontent.com/5953262/116819182-3e23e400-abb2-11eb-9acc-a2ba12a47d74.jpeg)
 
 
 #### Texture
