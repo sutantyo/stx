@@ -54,6 +54,17 @@ You can see that in the following video, where Lightning Bolt (leftmost card) is
 
 https://user-images.githubusercontent.com/5953262/116773509-f0678880-aa98-11eb-80e8-61f2ed0ae678.mov
 
+#### Rounded Corner
+
+This is actually the easiest method, but it only works if you have the physical card in front of you.
+I don't think you will be able to tell this from a picture, 
+unless you specifically ask for a closeup picture of the corner.
+The set foil cards have rounded corner, as in, much more rounded compared to the CB foils, 
+as you can see from the picture below (the card on the right is the set foil):
+
+![image0 (4)](https://user-images.githubusercontent.com/5953262/116819182-3e23e400-abb2-11eb-9acc-a2ba12a47d74.jpeg)
+
+
 #### Texture
 
 The next one is harder to spot, and it is not something I use to identify set or CB foils (the above is
