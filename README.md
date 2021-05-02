@@ -94,7 +94,7 @@ the difference is not as stark, and in fact the set foils are so subtle, they do
 even look like foils. 
 
 If it bothers you so much, you can also use a matte sleeves on these cards. You can see the effect on the following
-video. Both cards are CB foils, one of them inside an UltraPro matte sleeve.
+video. Both cards are CB foils, one of them inside an UltraPro matte sleeve. I think you can work out which one.
 
 https://user-images.githubusercontent.com/5953262/116773782-1726be80-aa9b-11eb-8d0c-cd456b32f81a.mov
 
@@ -114,7 +114,7 @@ side by side (the etched-foil is the left card):
 ![image2](https://user-images.githubusercontent.com/5953262/116774525-720ee480-aaa0-11eb-9883-e004f2d8041b.jpeg)
 
 The etched-foils also have a more rough texture if we look at it closely. Here is Opt, left is non-foil, right is etched. 
-You can the difference in both colour and texture. 
+You can the difference in both colour and texture.
 
 ![image1 (1)](https://user-images.githubusercontent.com/5953262/116774548-a5ea0a00-aaa0-11eb-9251-f2b31394b524.jpeg)
 
