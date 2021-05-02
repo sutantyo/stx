@@ -114,7 +114,7 @@ side by side (the etched-foil is the left card):
 ![image2](https://user-images.githubusercontent.com/5953262/116774525-720ee480-aaa0-11eb-9883-e004f2d8041b.jpeg)
 
 The etched-foils also have a more rough texture if we look at it closely. Here is Opt, left is non-foil, right is etched. 
-You can the difference in both colour and texture.
+You can see the difference in both colour and texture.
 
 ![image1 (1)](https://user-images.githubusercontent.com/5953262/116774548-a5ea0a00-aaa0-11eb-9251-f2b31394b524.jpeg)
 
