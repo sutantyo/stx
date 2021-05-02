@@ -82,12 +82,13 @@ and here is a closeup of the set foil:
 ![image1](https://user-images.githubusercontent.com/5953262/116773641-e2fece00-aa99-11eb-8f91-aa19b0b86946.jpeg)
 
 You can see a bit more texture in the CB foil, which is how I expect foils to look. The foiling effect on the set foil
-is more subtle, but it is also doing a much better job at preserving the original colours.
+is more subtle, but it is also doing a much better job at preserving the original colours. There is also a
+difference in the rosette pattern.
 
 #### Does it matter?
 
 The first time I saw the difference in these two foils, I immediately thought the set foil was much better, and
-of course this is reflected by the price. However, I inspected these cards under a bright task lamp. 
+this is also reflected by the price. However, I inspected these cards under a bright task lamp. 
 Under normal circumstances (e.g. under sunlight), 
 the difference is not as stark, and in fact the set foils are so subtle, they do not
 even look like foils. 
